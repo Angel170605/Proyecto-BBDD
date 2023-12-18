@@ -6,6 +6,7 @@
 
 ## Índice
 -[Modelo ER](/README.md)
+![<Modelo ER>](<https://github.com/Angel170605/Proyecto-BBDD/blob/main/Modelo-ER/Modelo-ER.drawio.png>)
 
 ## Autores
 
