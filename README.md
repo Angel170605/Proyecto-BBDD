@@ -85,7 +85,7 @@ Estudiante
 | 11111111D     | Ricarddo  | Zamora      | Avenida La Gallega, 3   | ricardozamora@gmail.com   | ID_Profesor1   |
 | 22222222F     | Omar   | González        | Paseo Fermín Rodríguez, 2A   | omargonzalez@gmail.com    | ID_Profesor1   |
 | 33333333G    | Ángel  | Pérez    | Calle San Agustín, 30     | angelperez@gmail.com   | ID_Profesor2   |
-| 44444444H     | Rodrigo   | Rodríguez       | Calle Las Cabezas, 7   | juan@gmail.com | ID_Profesor2   |
+| 44444444H     | Rodrigo   | Rodríguez       | Calle Las Cabezas, 7   | rodrigorodriguez@gmail.com | ID_Profesor2   |
 
 Profesor
 
