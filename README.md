@@ -74,9 +74,11 @@ Ya una vez creado el DIagrama Entidad-Relación, era hora de convertirlo al Mode
 
 Por último, nos queda normalizar la Base de Datos. Esto se hace principalmente para eliminar la redundancia de información, además de simplificar la base de datos con la información más importante. Este proceso se divide en distintas fases, conocidas como las *Fases Normales*, estando la *1FN*, *2FN*, *3FN*, *4FN*, y *5FN* (aunque este proyecto no llevaremos la normalización hasta esta última). 
 
-## Partes del Modelo ER
-# 1FN
+<div align="center">
+   
+## PRIMERA FORMA NORMAL (1FN)
 
+</div>
 
 Estudiante
 
@@ -180,8 +182,11 @@ Empleado_Administrativo
 | 1                 | DNI1        | Daniel | Zamora | ID_Departamento1   |
 | 2                 | DNI2        | Adrián | Pérez | ID_Departamento2 |
 
+<div align="center">
 
-# 2F
+## SEGUNDA FORMA NORMAL (2FN)
+
+</div>
 
 Estudiante
 
@@ -310,9 +315,11 @@ Instalación_Deportiva
 
 
 
+<div align="center">
 
+## TERCERA FORMA NORMAL (3FN)
 
-# 3 FN
+</div>
 
 Estudiante
 
