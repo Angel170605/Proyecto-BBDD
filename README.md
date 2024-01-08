@@ -448,6 +448,14 @@ Instalación_Deportiva
 | ID_Instalación2      | Cancha2            |
 
 <div align="center">
+
+## CREACIÓN DE LA ESTRUCTURA DE BBDD
+
+</div>
+
+Ya creada y llevada la Base de Datos a la 3FN,, lo que vamos a hacer a continuación es la creación de su estructura. Para ello utilizaremos sqlite3, con las funciones create table e insert.
+
+<div align="center">
    
 ## AUTORES
 
