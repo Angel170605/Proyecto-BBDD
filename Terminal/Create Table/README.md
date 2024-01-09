@@ -74,3 +74,10 @@ sqlite> create table Empleado_Administrativo (
    ...> Apellido text,
    ...> ID_Departamento text references Departamento(ID_Departamento)
    ...> );
+   sqlite> create table Empleado_Administrativo (
+   ...> ID_EmpleadoAd integer primary key,
+   ...> DNI text,
+   ...> Nombre text,
+   ...> Apellido text,
+   ...> ID_Departamento text references Departamento(ID_Departamento)
+   ...> );
