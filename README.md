@@ -33,9 +33,8 @@ Este es un proyecto grupal para la asignatura Base de Datos de 1º CFGS DAW (Des
 2. Transformar el Diagrama Entidad-Relación creado previamente al Modelo Relaccional, teniendo en cuenta la cardinalidad de las relaciones del diagrama.
 3. Realizar la normalización del Modelo Relacional resultante a la primera, segunda, tercera y cuarta forma normal.
 
-![Universidad](https://github.com/Angel170605/Proyecto-BBDD/blob/main/img/universidad.jpg)
-
 <div align="center">
+<img src="https://github.com/Angel170605/Proyecto-BBDD/blob/main/img/universidad.jpg" width="400" heigh="400">
    
 ## DIAGRAMA ENTIDAD RELACIÓN
 
