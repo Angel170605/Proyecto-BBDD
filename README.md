@@ -455,12 +455,15 @@ Instalación_Deportiva
 
 </div>
 
+<div align="justify">
+
 La creación de la Base de Datos se hará en la terminal, con el uso de sqlite3. Para ello, se seguirán unos pasos en la terminal:
 1. Create Table:
    Se crearán todas las tablas de la base de datos en la terminal, pero estarán vacías, por lo que tendremos que pasar al siguiente paso.
 2. Inserts:
    Con el uso de la función Insert, se introducirá a las tablas toda la información que corresponde a cada una de ellas. 
    
+</div>
 
 <div align="center">
    
