@@ -12,19 +12,17 @@
 
 ## ÍNDICE
 
-</div>
 
-* [Descripción](#descripción)
 
-* [Diagrama_Entidad_Relación](#diagrama_entidad_relación)
+   **[Descripción](#descripción)**
 
-* [Modelo_Relacional](#modelo_relacional)
+   **[Diagrama_Entidad_Relación](#diagrama_entidad_relación)**   
+   
+   **[Modelo_Relacional](#modelo_relacional)**
 
-* [Normalización](#normalización)
+   **[Normalización](#normalización)**
 
-* [Creación_de_estructura_de_bbdd](#creación_de_la_estructura_de_bbdd)
-
-<div align="center" >
+   **[Creación_de_estructura_de_bbdd](#creación_de_la_estructura_de_bbdd)**
 
 ## DESCRIPCIÓN
 
