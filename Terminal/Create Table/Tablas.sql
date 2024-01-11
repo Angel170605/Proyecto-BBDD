@@ -81,3 +81,10 @@ sqlite> create table Empleado_Administrativo (
    ...> Apellido text,
    ...> ID_Departamento text references Departamento(ID_Departamento)
    ...> );
+
+   sqlite> create table Estudiante_Programa (
+   ...> DNI_Estudiante text primary key,
+   ...> ID_Programa text references Programa(ID_Programa)
+   ...> );
+
+   
