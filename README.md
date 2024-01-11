@@ -12,17 +12,17 @@
 
 ## ÍNDICE
 
-</div>
 
-* [Descripción](#descripción)
 
-* [Diagrama ER](#diagramaentidadrelación)
+   **[Descripción](#descripción)**
 
-* [Modelo Relacional](#modelorelacional)
+   **[Diagrama_Entidad_Relación](#diagrama_entidad_relación)**   
+   
+   **[Modelo_Relacional](#modelo_relacional)**
 
-* [Normalización](#normalización)
+   **[Normalización](#normalización)**
 
-<div align="center" >
+   **[Creación_de_estructura_de_bbdd](#creación_de_la_estructura_de_bbdd)**
 
 ## DESCRIPCIÓN
 
@@ -32,11 +32,12 @@ Este es un proyecto grupal para la asignatura Base de Datos de 1º CFGS DAW (Des
 1. Crear el modelo *Entidad-Relación* de la Universidad, tras haber analizado todas sus entidades, propiedades y posibles relaciones entre las mismas.
 2. Transformar el Diagrama Entidad-Relación creado previamente al Modelo Relaccional, teniendo en cuenta la cardinalidad de las relaciones del diagrama.
 3. Realizar la normalización del Modelo Relacional resultante a la primera, segunda, tercera y cuarta forma normal.
+4. Crear la Base de Datos en sqlite3 mediante la terminal. Este proceso se compone por la creación de las tablas y la inserción de su correspondiente información.
 
 <div align="center">
 <img src="https://github.com/Angel170605/Proyecto-BBDD/blob/main/img/universidad.jpg" width="400" heigh="400">
    
-## DIAGRAMA ENTIDAD RELACIÓN
+## DIAGRAMA_ENTIDAD_RELACIÓN
 
 </div>
 
@@ -50,7 +51,7 @@ El primero de los pasos quie debíamos seguir para poder crear la Base de Datos 
 
 <div align="center">
 
-## MODELO RELACIONAL
+## MODELO_RELACIONAL
 
 </div>
 
@@ -448,11 +449,19 @@ Instalación_Deportiva
 
 <div align="center">
 
-## CREACIÓN DE LA ESTRUCTURA DE BBDD
+## CREACIÓN_DE_LA_ESTRUCTURA_DE_BBDD
 
 </div>
 
-Ya creada y llevada la Base de Datos a la 3FN,, lo que vamos a hacer a continuación es la creación de su estructura. Para ello utilizaremos sqlite3, con las funciones create table e insert.
+<div align="justify">
+
+La creación de la Base de Datos se hará en la terminal, con el uso de sqlite3. Para ello, se seguirán unos pasos en la terminal:
+1. Create Table:
+   Se crearán todas las tablas de la base de datos en la terminal, pero estarán vacías, por lo que tendremos que pasar al siguiente paso.
+2. Inserts:
+   Con el uso de la función Insert, se introducirá a las tablas toda la información que corresponde a cada una de ellas. 
+   
+</div>
 
 <div align="center">
    
