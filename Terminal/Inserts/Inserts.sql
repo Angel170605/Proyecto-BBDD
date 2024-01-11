@@ -39,6 +39,19 @@ atura2','ID_Prerequisito2');
 sqlite> insert into Aula (ID_Aula,Nombre) values ('ID_Aula1',102);
 sqlite> insert into Aula (ID_Aula,Nombre) values ('ID_Aula2',103);
 
+sqlite> insert into Estudiante_Programa (DNI_Estudiante,ID_Programa) values ('1111D','ID_Prog
+rama1');
+sqlite> insert into Estudiante_Programa (DNI_Estudiante,ID_Programa) values ('2222D','ID_Prog
+rama2');
+
+sqlite> insert into Empleado_Administrativo (ID_EmpleadoAd,DNI,Nombre,Apellido,ID_Departament
+o) values (1,'DNI1','Daniel','Zamora','ID_Departamento1');
+sqlite> insert into Empleado_Administrativo (ID_EmpleadoAd,DNI,Nombre,Apellido,ID_Departamento) values (2,'DNI2','Adrian','Zapata','ID_Departamento2');
+
+sqlite> insert into Instalacion_Deportiva (ID_Instalacion,Nombre) values ('ID_Instacion1','Cancha1');
+sqlite> insert into Instalacion_Deportiva (ID_Instalacion,Nombre) values ('ID_Instacion2','Ca
+ncha2');
+
 
 
 
